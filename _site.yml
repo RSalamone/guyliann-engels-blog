@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "Nic's Blog"
+title: "Guyliann's Blog"
 output_dir: "docs"
 navbar:
   right:
@@ -10,7 +10,7 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href: https://github.com/BioDataScience-Course/blog-template
+      href: https://github.com/Guyliann/guyliann-engels-blog
 base_url: http://biodatascience-course.sciviews.org/blog-template/
 collections:
     posts:
