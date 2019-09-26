@@ -11,7 +11,7 @@ navbar:
       href: about.html
     - icon: fab fa-github
       href: https://github.com/Guyliann/guyliann-engels-blog
-base_url: http://biodatascience-course.sciviews.org/blog-template/
+base_url: https://guyliann.github.io/guyliann-engels-blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
