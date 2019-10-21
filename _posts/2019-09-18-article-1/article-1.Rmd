@@ -40,5 +40,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <https://www.scientificamerican.com/article/wheres-my-elephant-high-tech-collars-track-wildlife-in-real-time1/?redirect=1>
 
+## PDF file
 
+[article](https://github.com/Guyliann/guyliann-engels-blog/blob/master/ressources/elephant_article1.pdf)
 

@@ -1,20 +1,5 @@
 [
   {
-    "path": "posts/2019-09-26-article-2/",
-    "title": "article-2",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      }
-    ],
-    "date": "2019-09-26",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-09-26T13:49:50+02:00"
-  },
-  {
     "path": "posts/2019-09-18-article-1/",
     "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
     "description": {},
@@ -30,6 +15,6 @@
       "track"
     ],
     "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-09-26T09:54:23+02:00"
+    "last_modified": "2019-10-21T17:02:18+02:00"
   }
 ]
